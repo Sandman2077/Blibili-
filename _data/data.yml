@@ -57,7 +57,7 @@ career-profile:
 
 education:
     - degree: HBA in English and Communication Studies
-      university: Xi'an Jiaotong-Liverpool University
+      university: 西交利物浦大学
       time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -68,7 +68,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: MA in Digital Communication and Culture
-      university: The University of Sydney (currently enrolled in the last semester)
+      university: 悉尼大学 (currently enrolled in the last semester)
       time: 2021.2 - to this day
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
